@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "アンダーカバー。",
+  "base_artist": "あばらや",
+  "createdAt": "2026-01-03T15:47:50.346363Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンダーカバー",
+      "artist": "MILGRAM エス (CV: 天海由梨奈)",
+      "has_synced": true,
+      "path": "select/01_アンダーカバー_MILGRAM_エス_(CV__天海由梨奈).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アンダーカバー",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/02_アンダーカバー_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アンダーカバー - Off Voice",
+      "artist": "MILGRAM エス (CV: 天海由梨奈)",
+      "has_synced": false,
+      "path": "select/03_アンダーカバー_-_Off_Voice_MILGRAM_エス_(CV__天海由梨奈).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アンダーカバー",
+      "artist": "MILGRAM エス",
+      "has_synced": true,
+      "path": "select/04_アンダーカバー_MILGRAM_エス.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アンダーカバー -Off Voice-",
+      "artist": "エス (天海由梨奈)",
+      "has_synced": true,
+      "path": "select/05_アンダーカバー_-Off_Voice-_エス_(天海由梨奈).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アンダーカバー",
+      "artist": "エス (天海由梨奈)",
+      "has_synced": true,
+      "path": "select/06_アンダーカバー_エス_(天海由梨奈).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンダーカバー。",
+      "artist": "あばらや",
+      "has_synced": false,
+      "path": "select/pl_01_アンダーカバー。_あばらや.txt"
+    }
+  ]
+}
